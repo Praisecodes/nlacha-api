@@ -73,6 +73,7 @@
     // print_r($result);
 
     while($rows = $result->fetch_assoc()){
+        $data[$i]['id'] = $rows['id'];
         $data[$i]['meal'] = $rows['meal'];
         $data[$i]['price'] = $rows['price'];
         $data[$i]['category'] = $rows['category'];
