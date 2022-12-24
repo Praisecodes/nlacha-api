@@ -31,6 +31,7 @@
     if($check_result->num_rows > 0){
         $stmt->close();
         $conn->close();
+        http_response_code(403);
         echo json_encode(["User Already Exists"]);
         exit;
     }
