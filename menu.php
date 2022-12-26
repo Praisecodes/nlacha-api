@@ -66,7 +66,7 @@
         $stmt->close();
         $conn->close();
         http_response_code(404);
-        echo json_encode(["No data"]);
+        echo json_encode([]);
         exit;
     }
 

@@ -31,11 +31,11 @@ CREATE TABLE `menu`(
 --
 
 INSERT INTO `menu`(`meal`,`price`,`category`,`stockAvailable`, `image`) VALUES
-("Fried Rice", 1300,"food", 34, "https://www.shutterstock.com/image-photo/meal-nigerian-fried-rice-served-chicken-1386416972.jpg"),
-("Stir Fry Spagheti", 1300,"food", 34, "https://www.shutterstock.com/image-photo/sauced-spaghetti-tomatoes-white-bowl-fork-1939895284.jpg"),
-("Yam and Sauce", 1300, "protein", 34, "https://www.shutterstock.com/image-photo/white-plate-boiled-yam-fried-scrambled-1737145400.jpg"),
+("Fried Rice", 1300,"food", 34, "https://www.shutterstock.com/image-photo/meal-nigerian-fried-rice-served-600w-1386416948.jpg"),
+("Stir Fry Spagheti", 1300,"food", 34, "https://www.shutterstock.com/image-photo/stirfried-yakisoba-noodles-green-peas-600w-1913587513.jpg"),
+("Yam and Sauce", 1300, "protein", 34, "https://www.shutterstock.com/image-photo/white-plate-boiled-yam-fried-600w-1737145400.jpg"),
 ("Egwusi Soup", 1300, "vegetable", 34, "https://demandafrica.com/wp-content/uploads/2017/06/EgusiSoup-e1533238405501.jpg"),
-("White Rice and Stew", 1300, "food", 34, "https://www.shutterstock.com/image-photo/plate-white-rice-diced-carrots-green-1288419217.jpg"),
+("White Rice and Stew", 1300, "food", 34, "https://www.shutterstock.com/image-photo/filipino-festive-meal-hamonado-pork-600w-760028209.jpg"),
 ("Beans and Dodo", 1300, "vegetable", 34, "https://www.shutterstock.com/image-photo/typical-nigerian-meal-beans-dodo-600w-1304388136.jpg"),
 ("Roasted Lamb", 1300, "protein", 34, "https://www.shutterstock.com/image-photo/grilled-lamb-carre-warm-couscous-600w-754610044.jpg"),
 ("Chocolate Cake", 1300, "pastry", 34, "https://www.shutterstock.com/image-photo/plate-slice-tasty-homemade-chocolate-600w-1295709469.jpg"),
